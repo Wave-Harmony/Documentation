@@ -1,4 +1,4 @@
-# Waveharmony - Real Time Audio Spectrum 
+# Waveharmony - Real Time Audio Spectrum Analyzer
 Visualized Analog Project
 
 ## Overview
